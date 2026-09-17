@@ -24,7 +24,7 @@ namespace WHS {
                                                                                         if (n_scores <= 16) return {5, 0.0};
                                                                                                 if (n_scores <= 18) return {6, 0.0};
                                                                                                         if (n_scores == 19) return {7, 0.0};
-                                                                                                               return {8, 0.0}; // 20 score: media degli 8 migliori
+                                                                                                               return {8, 0.0};
             }
         };
 
